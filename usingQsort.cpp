@@ -1,6 +1,6 @@
 /*******************************************/
 /*This is my 1st assignment programm in OOP*/
-/*			ver1.0 19-03-14				   */
+/*		ver1.0 19-03-14	           */
 /*******************************************/
 #include <iostream>
 #include <cstdlib> // For using sturct type
